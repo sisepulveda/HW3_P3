@@ -6,6 +6,8 @@ Mallas quad9 utilizadas:
 ![image](https://user-images.githubusercontent.com/81662690/131737444-d382a1ba-eb69-41ad-9233-5657e3d7d375.png)
 ![image](https://user-images.githubusercontent.com/81662690/131737470-920f312d-ab20-402e-a17e-6cc21dbd8f93.png)
 
+Para las deformaciones se amplificó por 5e7
+
 PARTE A:
 
 ![image](https://user-images.githubusercontent.com/81662690/131735837-e43e5262-513c-4879-b0fd-f1c83e518a4e.png)
